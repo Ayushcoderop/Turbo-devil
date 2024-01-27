@@ -21,10 +21,10 @@ from datetime import datetime
 async def ping(e):
     if e.sender_id in SUDO_USERS:
         start = datetime.now()
-        altron = await e.reply(f"» __KALYUG__")
+        altron = await e.reply(f"» __TURBO__")
         end = datetime.now()
         mp = (end - start).microseconds / 1000
-        await altron.edit(f"__KALYUG AA GYA HAI😈__\n» `{mp} ᴍꜱ`")
+        await altron.edit(f"__TURBO DEVIL AA GYA HAI😈⚡__\n» `{mp} ᴍꜱ`")
 
 
 @X1.on(events.NewMessage(incoming=True, pattern=r"\%sreboot(?: |$)(.*)" % hl))
@@ -39,7 +39,7 @@ async def ping(e):
 @X10.on(events.NewMessage(incoming=True, pattern=r"\%sreboot(?: |$)(.*)" % hl))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        await e.reply(f"`KALIYUG KI SURUWAT FIR SE HOR RHI HAI.`")
+        await e.reply(f"`TURBO DEVI KA BETA HAI WO.`")
         try:
             await X1.disconnect()
         except Exception:
@@ -99,7 +99,7 @@ async def addsudo(event):
         Heroku = heroku3.from_key(HEROKU_API_KEY)
         sudousers = getenv("SUDO_USERS", default=None)
 
-        ok = await event.reply(f"» __KALIYUG Ka Ek Beta Aur Add Ho rha hai..__")
+        ok = await event.reply(f"» __Turbo Devil Ka Ek Beta Aur Add Ho rha hai..__")
         target = ""
         if HEROKU_APP_NAME is not None:
             app = Heroku.app(HEROKU_APP_NAME)
@@ -117,14 +117,14 @@ async def addsudo(event):
             return
 
         if str(target) in sudousers:
-            await ok.edit(f"YE KALYUG KI SANTAN HAI ISPE MAT MARO.. !!")
+            await ok.edit(f"YE TURBO DEVIL KA BETA HAI ISPE MAT MARO.. !!")
         else:
             if len(sudousers) > 0:
                 newsudo = f"{sudousers} {target}"
             else:
                 newsudo = f"{target}"
-            await ok.edit(f"» **ɴᴇᴡ ꜱᴜᴅᴏ ᴜꜱᴇʀ**: `{target}`\n» `KALIYUG ME PRAVESH KE LIYE TYAR HO JAO`")
+            await ok.edit(f"» **ɴᴇᴡ ꜱᴜᴅᴏ ᴜꜱᴇʀ**: `{target}`\n» `TURBO DEVIL KI DUNIYA ME AA GAYA`")
             heroku_var["SUDO_USERS"] = newsudo    
     
     elif event.sender_id in SUDO_USERS:
-        await event.reply("» BSDK SIRF KALYUG SUDO DE SKTA HAI...")
+        await event.reply("» BSDK SIRF TURBO KA BAAP DEVIL SUDO DE SKTA HAI...")
