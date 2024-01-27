@@ -1,6 +1,6 @@
 {
-    "name": "KALYUG",
-    "logo": "https://telegra.ph/file/2ce853cbdd303aeac7b41.jpg",
+    "name": "😈 TURBO DEVIL⚡😈🫧",
+    "logo": "https://telegra.ph/file/bddcebd34ec4bb1a572d3.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/doraemon890/KALYUG",
+    "repository": "https://github.com/Samyak1222/Turbo-devil",
     "env": {
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
