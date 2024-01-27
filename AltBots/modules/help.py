@@ -14,7 +14,7 @@ HELP_BUTTON = [
       Button.inline("• ᴇxᴛʀᴀ •", data="extra")
     ],
     [
-      Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/YOUR_D3V1L"),
+      Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/CDX_WORLD"),
       Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/devillok1")
     ]
   ]
