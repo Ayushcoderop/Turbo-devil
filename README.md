@@ -25,7 +25,7 @@
 <br>
 <h1> <img src="https://telegra.ph/file/8bfded5f818dc3c95670e.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="https://telegra.ph/file/bddcebd34ec4bb1a572d3.jpg" width="60px">](https://t.me/fearless_xd_1) [<img src="https://telegra.ph/file/8bfded5f818dc3c95670e.jpg" width="60px">](https://github.com/Samyak1222) 
+[<img src="https://telegra.ph/file/bddcebd34ec4bb1a572d3.jpg" width="60px">](https://t.me/Devill82) [<img src="https://telegra.ph/file/8bfded5f818dc3c95670e.jpg" width="60px">](https://github.com/Samyak1222) 
 </details>
 <details>
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
