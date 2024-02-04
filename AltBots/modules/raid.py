@@ -39,7 +39,7 @@ async def raid(e):
             elif uid == OWNER_ID:
                 await e.reply("BETA BAAP PE RAID NHI KRTE HAI...")
             elif uid in SUDO_USERS:
-                await e.reply("YE TURBO DEVIL KA BETAHAI ISPE RAID MAT MARO.. !!...")
+                await e.reply("YE TURBO DEVIL KA BETA HAI ISPE RAID MAT MARO.. !!...")
             else:
                 first_name = entity.first_name
                 counter = int(xraid[1])
