@@ -25,9 +25,9 @@
 <br>
 <h1> <img src="https://telegra.ph/file/8bfded5f818dc3c95670e.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="https://telegra.ph/file/bddcebd34ec4bb1a572d3.jpg" width="60px">](https://t.me/Devill82) [<img src="https://telegra.ph/file/8bfded5f818dc3c95670e.jpg" width="60px">](https://github.com/Samyak1222) 
+[<img src="https://telegra.ph/file/bddcebd34ec4bb1a572d3.jpg" width="60px">](https://t.me/Devil6694) [<img src="https://telegra.ph/file/8bfded5f818dc3c95670e.jpg" width="60px">](https://github.com/Samyak1222) 
 </details>
 <details>
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
-<a href="https://t.me/devillok1"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/your_devillok"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 </details>
