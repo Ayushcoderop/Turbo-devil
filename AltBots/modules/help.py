@@ -15,7 +15,7 @@ HELP_BUTTON = [
     ],
     [
       Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/CDX_WORLD"),
-      Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/devillok1")
+      Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/your_devillok")
     ]
   ]
 
@@ -60,7 +60,7 @@ extra_msg = f"""
   2) {hl}leave : Type in the Group bot will auto leave that group
 
 
-**© @Devill82**
+**© @Devil6694**
 """
 
                  
@@ -92,7 +92,7 @@ raid_msg = f"""
   2) {hl}craid <count> <reply to user>
 
 
-**© @Devill82**
+**© @Devil6694**
 """
 
 spam_msg = f"""
@@ -109,7 +109,7 @@ spam_msg = f"""
   1) {hl}hang <counter>
 
 
-** © @Devill82**
+** © @Devil6694**
 """                     
            
            
@@ -137,12 +137,12 @@ async def helpback(event):
               ],
               [
                 Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/YOUR_D3V1L"),
-                Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/devillok1")
+                Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/your_devillok")
               ]
             ]
           )
     else:
-        await event.answer("Make Your Own Altron Bots !! @Devill82", cache_time=0, alert=True)
+        await event.answer("Make Your Own Altron Bots !! @Devil6694", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"spam"))
@@ -161,7 +161,7 @@ async def help_spam(event):
               buttons=[[Button.inline("< Back", data="help_back"),],],
               ) 
     else:
-        await event.answer("Make Your Own Altron Bots !! @Devill82", cache_time=0, alert=True)
+        await event.answer("Make Your Own Altron Bots !! @Devil6694", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"raid"))
@@ -180,7 +180,7 @@ async def help_raid(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
           )
     else:
-        await event.answer("Make Your Own Altron Bots !! @Devill82", cache_time=0, alert=True)
+        await event.answer("Make Your Own Altron Bots !! @Devil6694", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"extra"))
@@ -199,4 +199,4 @@ async def help_extra(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
             )
     else:
-        await event.answer("Make Your Own Altron Bots !! @Devill82", cache_time=0, alert=True)
+        await event.answer("Make Your Own Altron Bots !! @Devil6694", cache_time=0, alert=True)
