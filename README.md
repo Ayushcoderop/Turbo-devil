@@ -2,7 +2,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/Devill82"><img src="https://telegra.ph/file/bddcebd34ec4bb1a572d3.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/Devill82"><img src="https://graph.org/file/b58950d05e75d6a510e31.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using this op XBOTS. That is the greatest pleasure we have !
