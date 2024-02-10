@@ -34,13 +34,13 @@ async def start(event):
         bot_name = AltBot.first_name
         bot_id = AltBot.id
         TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ [{bot_name}](tg://user?id={bot_id})​**\n━━━━━━━━━━━━━━━━━━━\n\n"
-        TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [DEVIL](https://Devill82)**\n\n"
+        TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [̶🇩̶​̶E̶V̶I̶L̶⚡](https://t.me/Devil6694)**\n\n"
         TEXT += f"» **xʙᴏᴛꜱ ᴠᴇʀsɪᴏɴ :** `M3.3`\n"
         TEXT += f"» **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `3.11.3`\n"
         TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{__version__}`\n━━━━━━━━━━━━━━━━━"
         await event.client.send_file(
                     event.chat_id,
-                    "https://telegra.ph/file/bddcebd34ec4bb1a572d3.jpg",
+                    "https://graph.org/file/b58950d05e75d6a510e31.jpg",
                     caption=TEXT, 
                     buttons=START_BUTTON
                 )
