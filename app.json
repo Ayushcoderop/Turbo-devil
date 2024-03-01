@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/Samyak1222/Turbo-devil",
+    "repository": "https://github.com/Ayushcoderop/Turbo-devil",
     "env": {
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
